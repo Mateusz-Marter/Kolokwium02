@@ -1,6 +1,4 @@
-﻿using WebApplication4.Models;
-
-namespace WebApplication4.DTO;
+﻿namespace Kolokwium02.DTO;
 
 public class ClientDto
 {
